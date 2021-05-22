@@ -20,12 +20,12 @@
 <main class="mb-4">
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
-            <div class="col-md-10 col-lg-8 col-xl-7 border">
+            <div class="col-md-10 col-lg-8 col-xl-7">
                 <div class="d-flex justify-content-center pt-2">
                     <img src="{{ URL::asset("assets/img/profile.jpg") }}" alt="aw" class="rounded-circle"
                         style="width: 240px; height:240px; object-fit: cover">
                 </div>
-                <p class="text-wrap">So some people call me "Shob" and Iam Backend Developer at Twiscode. At work I usually play with
+                <p class="text-wrap fs-6 text-center text-break">So some people call me "Shob" and Iam Backend Developer at Twiscode. At work I usually play with
                     Go-lang, and still love Laravel. And this is where the activity is usually:</p>
 
                 <div class="d-flex justify-content-center pt-2">
